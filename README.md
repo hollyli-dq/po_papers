@@ -4,7 +4,7 @@ This repository contains a comprehensive collection of research papers, notes, a
 
 ## 📚 Lecture Notes and Course Materials
 
-### Partial Order Statistics Courses
+### Partial Order Courses
 - **Geoff's lecture notes and project R code**: [PrefStat25-PO](https://github.com/gknicholls/PrefStat25-PO)
 - **Kate's lecture notes and project R code**: [BayesianPO_R](https://github.com/hollyli-dq/BayesianPO_R)
 
