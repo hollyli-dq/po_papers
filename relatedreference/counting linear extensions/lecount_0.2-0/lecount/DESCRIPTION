@@ -1,0 +1,12 @@
+Package: lecount
+Version: 0.2-0
+Title: Counting linear extensions of partially ordered sets
+Author: Kustaa Kangas <jwkangas@cs.helsinki.fi>
+Maintainer: Simon Urbanek <Simon.Urbanek@r-project.org>
+Description: LEcount is a package for counting linear extensions of partially ordered sets (posets). It includes a collection of algorithms, which are documented in the paper Counting linear extensions of sparse posets (IJCAI'16).
+Imports: BH
+LinkingTo: BH
+SystemRequirement: gmp library
+License: GPL-2
+NeedsCompilation: yes
+Packaged: 2022-06-30 04:36:20 UTC; rforge
