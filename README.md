@@ -1,6 +1,6 @@
 # Partial Order (PO) Papers and Resources
 
-This repository contains a comprehensive collection of research papers, notes, and resources related to partial orders, Bayesian inference, and related topics in mathematics and computer science.
+This repository contains a comprehensive collection of research papers, notes, and resources related to partial orders.
 
 ## 📚 Lecture Notes and Course Materials
 
